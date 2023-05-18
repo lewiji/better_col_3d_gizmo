@@ -1,0 +1,8 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://cog4a4h8y5b0e"]
+
+[ext_resource type="Shader" path="res://addons/better_col_3d_gizmo/better_debug_colshape.gdshader" id="1_nbics"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_nbics")
+shader_parameter/color = Color(0.8, 0.1, 0.8, 0.1)
